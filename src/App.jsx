@@ -1,4 +1,4 @@
-import { Navbar } from "@/layout/Navbar";
+import { Navbar } from "@/Layout/Navbar";
 import { Hero } from "@/sections/Hero";
 import { About } from "@/sections/About";
 import { Projects } from "@/sections/Projects";
