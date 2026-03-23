@@ -2,7 +2,7 @@
 
 
 
-# Suggestions and comments to improve this website are always welcomed. 
+Suggestions and comments to improve this website are always welcomed. 
 
 
-# Thank you. 
+Thank you. 
