@@ -6,6 +6,7 @@ import {
   Download,
 } from "lucide-react";
 import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
+import profilePic from "../assets/gradphoto.png"; 
 
 const skills = [
   "React",
@@ -133,7 +134,7 @@ export const Hero = () => {
               />
               <div className="relative glass rounded-3xl p-2 glow-border">
                 <img
-                  src= "./gradphoto.png"
+                  src= {profilePic}
                   alt="Mohana Dhara"
                   className="w-full aspect-[4/5] object-cover rounded-2xl"
                 />
